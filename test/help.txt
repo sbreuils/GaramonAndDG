@@ -1,0 +1,19 @@
+
+
+fichier ggb : https://wiki.geogebra.org/fr/R%C3%A9f%C3%A9rence:Format_Fichiers
+
+exemple : https://github.com/geogebra/math-apps-examples/blob/master/html/example-api.html
+
+quick start : https://wiki.geogebra.org/en/Reference:GeoGebra_Apps_Embedding
+
+embeding : https://github.com/geogebra/math-apps-examples/blob/master/README.md
+
+parametres : https://wiki.geogebra.org/fr/R%C3%A9f%C3%A9rence:Param%C3%A8tres_Appliquette
+
+état d'un objet : https://wiki.geogebra.org/fr/R%C3%A9f%C3%A9rence:JavaScript
+
+setColor : https://wiki.geogebra.org/en/SetColor_Command
+
+référence : https://wiki.geogebra.org/en/Reference:GeoGebra_Apps_API#Examples
+
+exemple nul : http://dev.geogebra.org/examples/html/example-api-multiple.html#
